@@ -1,0 +1,25 @@
+body{background-color: #ffffff;}
+
+.texto{padding: 40px;
+background-color: rgb(41, 42, 42);
+border-radius: 50px;
+margin-top: 90px;
+margin-left: 100px;
+margin-right: 100px;}
+.botao{
+    display: block;
+    text-align: center;
+ margin: 10px;
+}
+#button{
+    
+    text-align: center;
+    background-color: #c733b1;
+    border:none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    
+    
+}
+.texto{color: white; text-align: center;font-size: 20px;}
